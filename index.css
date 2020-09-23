@@ -8,7 +8,6 @@
 body {
   background: url("Img/bg\ \(12\).jpg");
   background-size: cover;
-  r;
 }
 
 
@@ -145,20 +144,50 @@ body {
     display: inline-block;
     position: relative;
     left: 0px;
-    margin-top: -40px;
+    margin-top: 30px;
+    line-height: 1.2;
+    padding: 0px 5% 0 5%;
+
   }
 
   .big-heading {
-    font-size: 5rem;
+    font-size: 4rem;
   }
 
   .less-big-heading {
-    font-size: 2rem;
+    font-size: 1rem;
   }
 
-.icon-link{
-  display: none;
-}
+   .image-1{
+     position: relative;
+     top:170px;
+     left: 30px;
+
+   }
+
+   .image-2{
+    position: relative;
+    top:170px;
+    left:70px
+
+  }
+
+  .image-3{
+    position: relative;
+    top:170px;
+    left: 110px;
+
+  }
+
+  .image-4{
+    position: relative;
+    top:170px;
+    left: 150px;
+
+  }
+
+
+
  
 }
 
